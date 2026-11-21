@@ -1,0 +1,3 @@
+mkdir C:\Users\Admin\OneDrive\Desktop\se-compose
+cd C:\Users\Admin\OneDrive\Desktop\se-compose
+notepad compose.yaml
